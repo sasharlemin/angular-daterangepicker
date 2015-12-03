@@ -84,7 +84,7 @@
         _setViewValue = function(objValue) {
           var value;
           value = _format(objValue);
-          el.val(value);
+          //el.val(value);
           return modelCtrl.$setViewValue(value);
         };
         _validate = function(validator) {
@@ -110,7 +110,7 @@
           } else {
             _clear();
           }
-          return el.val(modelCtrl.$viewValue);
+          return;
         };
         modelCtrl.$parsers.push(function(val) {
           var f, objValue, x;
