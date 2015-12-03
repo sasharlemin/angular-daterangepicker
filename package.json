@@ -1,13 +1,13 @@
 {
-  "name": "angular-daterangepicker",
-  "version": "0.2.1",
-  "homepage": "https://github.com/fragaria/angular-daterangepicker",
+  "name": "ss-angular-daterangepicker",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sasharlemin/angular-daterangepicker",
   "authors": [
     "Filip Vařecha <filip.varecha@fragaria.cz>",
     "Tibor Kulčár <tibor.kulcar@fragaria.cz>",
     "Lukáš Marek <lukas.marek@fragaria.cz>"
   ],
-  "description": "Angular.js wrapper for Dan Grosmann's bootstrap date range picker (https://github.com/dangrossman/bootstrap-daterangepicker).",
+  "description": "Modiefied Angular.js wrapper from (https://github.com/fragaria/angular-daterangepicker) for Dan Grosmann's bootstrap date range picker (https://github.com/dangrossman/bootstrap-daterangepicker).",
   "license": "MIT",
   "private": false,
   "devDependencies": {
